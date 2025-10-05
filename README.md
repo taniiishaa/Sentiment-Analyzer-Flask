@@ -3,8 +3,6 @@
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/downloads/)
 [![Framework: Flask](https://img.shields.io/badge/Framework-Flask-lightgray)](https://flask.palletsprojects.com/)
 
-**Repository Description (Set this in GitHub's settings):** A production-ready Full-Stack web application built with Python Flask and the TextBlob library for real-time natural language sentiment analysis, featuring professional data visualization and a responsive UI.
-
 ## 💡 Project Goal & Technical Highlights
 The objective of this project was to build a robust, reproducible system that not only classifies text sentiment but also clearly explains the numerical basis of that classification.
 
