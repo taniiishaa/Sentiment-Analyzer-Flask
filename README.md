@@ -1,6 +1,5 @@
 # Realtime Sentiment Analyzer: Flask & NLP
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/downloads/)
 [![Framework: Flask](https://img.shields.io/badge/Framework-Flask-lightgray)](https://flask.palletsprojects.com/)
 
