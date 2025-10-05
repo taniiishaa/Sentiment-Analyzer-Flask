@@ -54,7 +54,7 @@ You must have Python 3.9+ installed on your system.
 
 1.  **Clone the repository and navigate into the directory:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[Your Username]/flask-sentiment-analyzer-nlp.git
+    git clone [https://github.com/](https://github.com/)[taniishaa]/flask-sentiment-analyzer-nlp.git
     cd flask-sentiment-analyzer-nlp
     ```
 
